@@ -15,14 +15,10 @@ Full Stack Web Developer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/subhajit10000" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/subhajit-chakraborty-cse25" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+<h2> Badges </h2>
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/subhajit10000"><img src="https://github-readme-streak-stats.herokuapp.com/?user=subhajit10000&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/subhajit10000" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhajit10000&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/subhajit10000/My-Tech-Academy" align="left"><img align="left" width="45%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbdhz4n2PoHZ1tiygQmazDdFFbcetQYTuMZYSX-aDbBjGMbh6vFoA1GqHY&s=10" &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en /></a><a href="https://github.com/subhajit10000/My-Tech-Academy" align="left"><img align="left" width="45%" src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/from-uncrewed-robotic-tests-to-ambitious-planetary-explorers--the-current-year-promises-to-be-a-mast-024748244-16x9_0.jpg?VersionId=oYijibpa8Q1dTo7Afd5olYBh2vVwScr.&size=690:388" &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en /></a></div><br /><br /><br /><br /><br /><br /><br />
