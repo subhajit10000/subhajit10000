@@ -20,3 +20,25 @@ Full Stack Web Developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/subhajit10000"><img src="https://github-readme-streak-stats.herokuapp.com/?user=subhajit10000&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+<h2>👾 Contribution Graph</h2>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman contribution graph"
+    src="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
+</div>
