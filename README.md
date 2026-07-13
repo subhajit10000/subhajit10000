@@ -19,7 +19,7 @@ Full Stack Web Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/soumajit67"><img src="https://github-readme-streak-stats.herokuapp.com/?user=soumajit67&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/subhajit10000"><img src="https://github-readme-streak-stats.herokuapp.com/?user=subhajit10000&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 <h2>👾 Contribution Graph</h2>
